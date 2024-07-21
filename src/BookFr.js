@@ -69,7 +69,7 @@ const BookFr = () => {
                     </div>
                 </div>
                 <div className="form-row">
-                    <button type="submit" className="submit-btn">Terminer la réservation</button>
+                    <button type="submit" className="submit-btn">Terminer la Réservation</button>
                 </div>
             </form>
         </div>
